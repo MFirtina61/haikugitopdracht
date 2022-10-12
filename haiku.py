@@ -2,10 +2,12 @@
 
 #plak hier de haiku functions onder elkaar
 
+def HaikuX(): 
+  print("haiku by:","AUTHOR") 
+  print("Hallo mijn naam is mucahid") 
+  print("Ik vind mijn opleding heel erg leuk") 
+  print("ik zit in sd1a klas")
 
-
-
-#laat de code hieronder met rust
 Haiku1()
 Haiku2()
 Haiku3()
