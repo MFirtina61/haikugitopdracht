@@ -7,6 +7,12 @@ def HaikuX():
   print("Hallo mijn naam is mucahid") 
   print("Ik vind mijn opleding heel erg leuk") 
   print("ik zit in sd1a klas")
+  
+def HaikuX(): 
+  print("haiku by:","AUTHOR") 
+  print("Hallo mijn naam is mostafa") 
+  print("Ik vind mijn opleding heel erg leuk") 
+  print("ik zit in sd1a klas")
 
 Haiku1()
 Haiku2()
