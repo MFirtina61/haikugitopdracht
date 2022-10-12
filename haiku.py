@@ -8,7 +8,7 @@ def HaikuX():
   print("Ik vind mijn opleding heel erg leuk") 
   print("ik zit in sd1a klas")
   
-def HaikuX(): 
+def Haiku1(): 
   print("haiku by:","AUTHOR") 
   print("Hallo mijn naam is mostafa") 
   print("Ik vind mijn opleding heel erg leuk") 
